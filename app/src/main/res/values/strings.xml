@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">To-Do List</string>
+    <string name="to_do_message">Describe your to-do item</string>
+    <string name="button_insert">Insert</string>
+    <string name="login">Log In</string>
+    <string name="logout">Log Out</string>
+    <string name="com_auth0_client_id">C02T18zihJtTk9hTFHY2oJwgaet9PQBi</string>
+    <string name="com_auth0_domain">borntoknow.eu.auth0.com</string>
+</resources>
